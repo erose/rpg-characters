@@ -1,8 +1,8 @@
 # Coz Crosser (Pathfinder)
 
-Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **true** light of Sarenrae. By the Sun we see it clearly, and the lies we are told become like wet paper in the rain! For what else are they? A layer of soft shade laid over your life, so that you mistake what you can plainly see for a dream.
+Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **true** light of Sarenrae. *By the Sun we see it clearly, and the lies we are told become like wet paper in the rain! For what else are they? A layer of soft shade laid over your life, so that you mistake what you can plainly see for a dream.*
 
-But fear not! The dragons of Cheliax and the armies of slavery have no power to hold the free-minded, the generous-souled, the patient-in-the-world!
+*But fear not! The dragons of Cheliax and the armies of slavery have no power to hold the free-minded, the generous-souled, the patient-in-the-world!*
 
   * **Level**: 1
   * **Race**: Human
