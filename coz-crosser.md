@@ -37,5 +37,5 @@ But fear not! The dragons of Cheliax and the armies of slavery have no power to 
 
   * **Rage**: When he believes that complacency & failure to "get it" have caused widespread harm. 
   * **Fear**: Coz is absolutely terrified of being mind-controlled; even the threat of it reduces him to a gibbering wreck. He is less severely terrified of being tricked or duped into believing something that isn't true (and overcompensates accordingly).
-  * **Obsession**: A complex conspiracy theory, spanning countries, which involves his former associates at the Church of Sarenrae in Magnimar. Verges on the metaphysical, changes on the daily as Coz believes he is getting closer to the truth.
+  * **Obsession**: A complex conspiracy theory, spanning countries, which involves his former associates at the Church of Sarenrae in Magnimar. Verges on the metaphysical, changes daily as Coz believes he is getting closer to the truth.
   * **Noble**: Like the Dr. Bronner of our world, Coz loves the idea of unifying all the world under his philosophy. Less loftily, banding together with others to defeat (what he sees as) an oppressive force inspires in him great effort and bravery.
