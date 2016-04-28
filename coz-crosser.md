@@ -1,8 +1,8 @@
 # Coz Crosser (Pathfinder)
 
-Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **true** light of Sarenrae. *By the Sun we see it clearly, and the lies we are told become like wet paper in the rain! For what else are they? A layer of soft shade laid over your life, so that you mistake what you can plainly see for a dream.*
+Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **true** light of Sarenrae.
 
-*But fear not! The dragons of Cheliax and the armies of slavery have no power to hold the free-minded, the generous-souled, the patient-in-the-world!*
+*By the Sun we see the world clearly; the BUZZING LIES of the drone bees in church, on their thrones & in books trouble us not! They are vanished in the holy singing of the MYSTIC CUBE, the SUN that you feel on your eyes! I will tell you this again and some of you will not believe me; the din of the BUZZING LIES is too great. But if you are ready to be a MIRROR OF JOY and RIGHTEOUSNESS, you only need to look into the sky and REFLECT what you see! The HORNET-DRAGONS of Cheliax and the forces of MENTAL SLAVERY have no power to stay the FREE-MINDED, the GENEROUS-SOULED, and the PATIENT!*
 
   * **Level**: 1
   * **Race**: Human
