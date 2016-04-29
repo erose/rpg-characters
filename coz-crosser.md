@@ -9,7 +9,7 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
   * **Class**: Paladin
   * **Alignment**: Lawful Good
 
-*A mountainlike brown-skinned man in a worn honey-colored suit. Various pink and green tunics are stuffed haphazardly into his belt. The man looks weather-worn; someone who's been traveling a long time. His squat head, like the cherry on top of a pudding, nods constantly in agreement with himself as he scans the people in the room. Noticing you, he curls up the corners of his mouth and shows a long smile. He's not young, but his teeth are stunningly white.*
+*A mountainlike brown-skinned man in a worn honey-colored suit. Various pink and green tunics are stuffed haphazardly into his belt. The man looks weather-worn; someone who's been traveling a long time. His squat head, like the cherry on top of a pudding, nods constantly in agreement with himself as he scans the people in the room. Noticing you, he gives a long and steady smile. He's not young, but his teeth are stunningly white.*
 
 | Ability Score | Starting Value | Bonuses/Penalties  |  Total  | Modifier |
 | ------------- |:--------------:| ------------------:|--------:|---------:|
@@ -33,8 +33,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 **Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
-**Possessions (on person)**: , chain shirt (always worn), holy symbol, three sunrods.
-**Possessions (stashed away)**: Heavy wooden shield, longsword (and scabbard).
+**Possessions (on person)**: Sword cane, holy symbol, three sunrods.
+**Possessions (stashed away)**: Heavy wooden shield, scale mail, longsword (and scabbard), greatsword (and scabbard).
 
 The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.
 
