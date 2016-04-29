@@ -2,13 +2,14 @@
 
 Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **true** light of Sarenrae.
 
-*By the Sun we see the world clearly; the BUZZING LIES of the drone bees in church, on their thrones & in books trouble us not! They are vanished in the holy singing of the MYSTIC CUBE, the SUN that you feel on your eyes! I will tell you this again and some of you will not believe me; the din of the BUZZING LIES is too great. But if you are ready to be a MIRROR OF JOY and RIGHTEOUSNESS, you only need to look into the sky and REFLECT what you see! The HORNET-DRAGONS of Cheliax and the forces of MENTAL SLAVERY have no power to stay the FREE-MINDED, the GENEROUS-SOULED, and the PATIENT!*
+*"By the Sun we see the world clearly; the BUZZING LIES of the drone bees, from the churches, the thrones, the pages of books, trouble us not! They are vanished in the holy singing of the MYSTIC CUBE, the SUN that you feel on your eyes! I will tell you this again and some of you will not believe me; the din of the BUZZING LIES is too great. But if you are ready to be a MIRROR OF JOY and RIGHTEOUSNESS, you only need to look into the sky and REFLECT what you see! The HORNET-DRAGONS of Cheliax and the forces of MENTAL SLAVERY have no power to stay the FREE-MINDED, the GENEROUS-SOULED, and the PATIENT!"*
 
   * **Level**: 1
   * **Race**: Human
   * **Class**: Paladin
+  * **Alignment**: Lawful Good
 
-*A huge, rotund man wearing a black suit that just covers his chainmail shirt.*
+*A mountainlike brown-skinned man in a worn honey-colored suit. Various pink and green tunics are stuffed haphazardly into his belt. The man looks weather-worn; someone who's been traveling a long time. His squat head, like the cherry on top of a pudding, nods constantly in agreement with himself as he scans the people in the room. Noticing you, he curls up the corners of his mouth and shows a long smile. He's not young, but his teeth are stunningly white.*
 
 | Ability Score | Starting Value | Bonuses/Penalties  |  Total  | Modifier |
 | ------------- |:--------------:| ------------------:|--------:|---------:|
@@ -32,6 +33,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 **Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
+**Possessions (on person)**: , chain shirt (always worn), holy symbol, three sunrods.
+**Possessions (stashed away)**: Heavy wooden shield, longsword (and scabbard).
 
 The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.
 
