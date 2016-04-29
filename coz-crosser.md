@@ -34,7 +34,7 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 | Skill                        | Ranks         | Bonuses/Penalties            |  Ability| Modifier |
 | ----------------------------:|--------------:| ----------------------------:|--------:|---------:|
 | Diplomacy *(Cha)*            | 1             | +3 (class skill)             | +4      | **+8**   |
-| Bluff *(Cha)*                | 1             | +3 (class skill) +1 (trait)  | +4      | **+9**   |
+| Spellcraft *(Int)*           | 1             | +3 (class skill)             | +0      | **+4**   |
 | Knowledge (religion) *(Int)* | 1             | +3 (class skill)             | +0      | **+4**   |
 
 **Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
