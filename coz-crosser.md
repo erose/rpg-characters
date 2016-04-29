@@ -33,7 +33,7 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
 
-*The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.*
+The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.
 
   * **Rage**: When he believes that complacency & failure to "get it" have caused widespread harm. 
   * **Fear**: Coz is absolutely terrified of being mind-controlled; even the threat of it reduces him to a gibbering wreck. He is less severely terrified of being tricked or duped into believing something that isn't true (and overcompensates accordingly).
