@@ -27,17 +27,19 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 
 **Feats**: [**Power Attack**](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final), [**Improved Initiative**](http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final)
 
-**Special Abilities**: [**Detect Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Detect-Evil-Sp-) at will, [**Smite Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) 1/day 
+**Special Abilities**: [**Detect Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Detect-Evil-Sp-) at will, [**Smite Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) 1/day, fire resistance 1
       
 **Trained Skills**:
 
 | Skill                        | Ranks         | Bonuses/Penalties            |  Ability| Modifier |
 | ----------------------------:|--------------:| ----------------------------:|--------:|---------:|
-| Diplomacy *(Cha)*            | 1             | +3 (class skill)             | +4      | **+8**   |
+| Diplomacy *(Cha)*            | 1             | +3 (class skill)             | +4      | **+9**   |
 | Spellcraft *(Int)*           | 1             | +3 (class skill)             | +0      | **+4**   |
-| Knowledge (religion) *(Int)* | 1             | +3 (class skill)             | +0      | **+4**   |
+| Intimidate *(Cha)*           | 1             | +3 (class skill) +1 (trait)  | +4      | **+9**   |
+| Perform (preaching) *(Cha)*  | 1             | -                            | +4      | **+5**   |
+| Knowledge (history) *(Int)*  | 1             | -                            | +0      | **+1**   |
 
-**Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
+**Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Soldier of the Faith**](http://www.d20pfsrd.com/traits/regional-traits/soldier-of-the-faith-regional-razmiran), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
 
