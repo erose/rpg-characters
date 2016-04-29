@@ -9,7 +9,10 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
   * **Class**: Paladin
   * **Alignment**: Lawful Good
 
-*A mountainlike brown-skinned man in a worn honey-colored suit. Various pink and green tunics are stuffed haphazardly into his belt. The man looks weather-worn; someone who's been traveling a long time. His squat head, like the cherry on top of a pudding, nods constantly in agreement with himself as he scans the people in the room. Noticing you, he gives a long and steady smile. His face is wrinkled and somehow lopsided, but his teeth are stunningly white.*
+*A mountainlike brown-skinned man in a worn honey-colored suit. Various pink and green tunics are stuffed haphazardly into his belt. In his right hand is a gentlemanly cane, the crook of which is fashioned into a face (whose, you cannot tell). The man looks weather-worn; someone who's been traveling a long time. His squat head, like the cherry on top of a pudding, nods constantly in agreement with himself as he scans the people in the room. Noticing you, he gives a long and steady smile. His face is wrinkled and somehow lopsided, but his teeth are stunningly white.*
+
+(Sort of like this, but not quite).
+![Fiddler's Green from Sandman](http://img01.deviantart.net/b97e/i/2005/025/9/5/sandman___fiddler__s_green_by_newvani.jpg)
 
 | Ability Score | Starting Value | Bonuses/Penalties  |  Total  | Modifier |
 | ------------- |:--------------:| ------------------:|--------:|---------:|
