@@ -33,7 +33,9 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 **Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
+
 **Possessions (on person)**: Sword cane, holy symbol, three sunrods.
+
 **Possessions (stashed away)**: Heavy wooden shield, scale mail, longsword (and scabbard), greatsword (and scabbard).
 
 The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.
