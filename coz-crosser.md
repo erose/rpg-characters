@@ -14,6 +14,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 (Sort of like this, but not quite).
 ![Fiddler's Green from Sandman](sandman___fiddler__s_green_by_newvani.jpg)
 
+***
+
 | Ability Score | Starting Value | Bonuses/Penalties  |  Total  | Modifier |
 | ------------- |:--------------:| ------------------:|--------:|---------:|
 | Str           | 14             | -                  | 14      | **+2**   |
@@ -24,6 +26,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 | Cha           | 16             | +2 (Human)         | 18      | **+4**   |
 
 **Feats**: [**Power Attack**](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final), [**Improved Initiative**](http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final)
+
+**Special Abilities**: [**Detect Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Detect-Evil-Sp-) at will, [**Smite Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-] 1/day 
       
 **Trained Skills**:
 
@@ -36,6 +40,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 **Traits**: [**Inspired**](http://www.d20pfsrd.com/traits/faith-traits/inspired), [**Unpredictable**](http://www.d20pfsrd.com/traits/social-traits/unpredictable), [**Posessed**](http://www.d20pfsrd.com/traits/magic-traits/possessed)
 
 **Drawbacks**: [**Headstrong**](http://www.d20pfsrd.com/traits/drawbacks/headstrong)
+
+***
 
 **Possessions (on person)**: Sword cane, holy symbol, three sunrods.
 
