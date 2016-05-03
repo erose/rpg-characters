@@ -49,9 +49,60 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 
 **Possessions (stashed away)**: Heavy wooden shield, scale mail, longsword (and scabbard), greatsword (and scabbard).
 
+***
+
+#Backstory
+
+*Coz (full name Costanzin Crosser) was born in the Dockway district of Magnimar. His father made his living running a boarding house for sailors, and his mother looked after his six younger siblings, which Coz shared in as he grew older. Coz's family is ethnically Varisian and, while they built their lives in Magnimar, separate themselves from the dominant pseudo-Chelaxian culture. This has always irritated Coz, who wishes his family would see that maintaining national identities only leads to violence.*
+
+*One of the defining drives in Coz's life has been to protect and provide for his family. Though not particularly religious until the age of 14, he claimed to have had a divine experience where he saw a miniature model of the universe, suns blazing in the void, in the open bulb of a tulip in the communal city garden. He decided this was the goddess Sarenrae, and threw himself at the door of her church in Magnimar, declaring that he would devote his life to her service. Eventually, and over his family's objections, he was taken on as an apprentice to a cleric of the sun goddess. The church paid his family his wages of five gold pieces a week.*
+
+*Eventually, for <reasons to be fleshed out> he became convinced that the Church of Sarenrae's politics and their entire view of the world was wrong. He formed a new cosmology, which pays half-homage to Sarenrae but substitutes an object of worship called the True Sun (a cube) in her place. Around this time, he began to believe that various governments and official churches were acting in concert to <goals to be fleshed out>. He believes several of the most popular gods (though not Sarenrae) are in fact powerful wizards pretending to be gods.*
+
+*After many fruitless arguments with his fellow clerics, he left right before the Church could officially cast him out. He left the city of his birth to spread the word of the True Sun, and after about six months of wandering ended up in Sandpoint.*
+
 The following have no mechanical effect; they're just a character-building idea stolen from Unknown Armies. Rage is what enrages Coz, Fear is what makes him afraid, Obsession is what he can't stop thinking about, Noble is what inspires him to selflessness.
 
   * **Rage**: When he believes that complacency & failure to "get it" have caused widespread harm. 
   * **Fear**: Coz is absolutely terrified of being mind-controlled; even the threat of it reduces him to a gibbering wreck. He is less severely terrified of being tricked or duped into believing something that isn't true (and overcompensates accordingly).
   * **Obsession**: A complex conspiracy theory, spanning countries, which involves his former associates at the Church of Sarenrae in Magnimar. Verges on the metaphysical, changes daily as Coz believes he is getting closer to the truth.
-  * **Noble**: Like the Dr. Bronner of our world, Coz loves the idea of unifying all the world under his philosophy. Less loftily, banding together with others to defeat (what he sees as) an oppressive force inspires in him great effort and bravery.
+  * **Noble**: Like the Dr. Bronner of our world, Coz loves the idea of unifying all the world under his philosophy. Less abstractly, banding together with others to defeat (what he sees as) an oppressive force inspires in him great effort and bravery.
+
+#Questions
+  * How old is your character?
+
+*Coz is 33 years old.*
+
+  * Does your character have any other family or friends?
+
+*Coz left most of his life behind when he left Magnimar to spread the faith. But*
+
+  * What is your character’s marital status? Kids?
+
+*Unmarried, but Coz does have a child, Aaron, with a woman named Maysa in the wealthier district of Magnimar. This happened during his days in the clergy of Sarenrae. He and Maysa were never married, though, wracked with guilt at the time, he offered to give up his position in the church to do so and raise the child. She prefers to raise the child on her own, with the resources of her family.*
+
+  * What is your character’s moral code?
+
+*The GREAT BUZZING of the churches, armies and machines of the world is a useless clamour, DROWNING OUT the screams, the laughter, the dancing-music of HUMANKIND! It is OUR minds that see the light of the SUN-CUBE, OUR brows licked with its conscious fire!*
+
+*Coz is willing to take more extreme measures to achieve his goals than most paladins. He's okay with lying, sneak attacks, using poison, etc. But he would need to be talked into using mind-controlling magic on a human. One of the highest goods in his universe is the spreading of the True Light.*
+
+  * Does your character have goals?
+
+*All the world's nations unified under the truth and beauty of the Sun. Evil eradicated through faith and ingenuity, and disaffection eliminated through communal mystical experience. This is not a very thought-through goal.*
+
+  * Does your character have any personality quirks (i.e. anti-social, arrogant, optimistic, paranoid)?
+
+*Coz's instinct is to trust anyone who offers trust to him, but lately he has been becoming more paranoid as he develops his conspiracy theory. He uses* Detect Evil *on anyone he meets who has been granted authority by an institution -- clerics, soldiers, mayors -- and believes the result.*
+
+  * Why does your character adventure?
+
+*For Coz, adventuring is a recent thing. He hopes to spread the joy and beauty of the True Sun through his words.*
+
+  * Does your character have any distinguishing marks (birth-marks, scars, deformities)?
+
+*A scar on the back of his head from a botched mugging when he was a kid. He was dealt a glancing blow with an axe.*
+
+  * How does your character get along with others?
+
+*Very well, as long as they don't trip his "out to get me" radar. Loudly performing good acts, expressing disdain for institutions, or showing some respect for his religious ideas helps. Coz is also eager to help others in public ways in order to demonstrate the power of the Sun.*
