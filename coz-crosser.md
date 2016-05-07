@@ -27,6 +27,8 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 
 **Max HP**: 13
 
+**Initiative Bonus**: +3
+
 **Saves**: FORT +4, REF -1, WILL +0
 
 **Feats**: [**Power Attack**](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final), [**Improved Initiative**](http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final)
