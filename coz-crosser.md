@@ -117,9 +117,15 @@ The following have no mechanical effect; they're just a character-building idea 
 
 **Saves**: FORT +4, REF -1, WILL +0
 
+**CMB**: +3
+
+**CMD**: +2
+
 Coz prefers to spend most of his time out of armor, in his respectable suit, with his gear stashed elsewhere. When Coz is not outfitted for combat he has:
 
 **AC** = **9**, **Flat-Footed AC** = **9**
+
+**Speed:** 30 ft.
 
 **Sword Cane:** piercing damage, critical x2
 
@@ -129,6 +135,8 @@ Coz prefers to spend most of his time out of armor, in his respectable suit, wit
 | Power Attack       | +2            | **1d6 + 4**             |
 
 When outfitted for combat, he switches between two modes; two-handed greatsword, or longsword + shield:
+
+**Speed:** 20 ft.
 
 **AC (longsword + shield)** = **16**, **Flat-Footed AC** = **16**
 
