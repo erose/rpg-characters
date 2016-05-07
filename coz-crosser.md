@@ -117,9 +117,9 @@ The following have no mechanical effect; they're just a character-building idea 
 
 **Saves**: FORT +4, REF -1, WILL +0
 
-**CMB**: +3
+**CMB**: 13
 
-**CMD**: +2
+**CMD**: 12
 
 Coz prefers to spend most of his time out of armor, in his respectable suit, with his gear stashed elsewhere. When Coz is not outfitted for combat he has:
 
