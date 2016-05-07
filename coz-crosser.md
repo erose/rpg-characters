@@ -25,6 +25,10 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 | Wis           | 7              | -                  | 7       | **-2**   |
 | Cha           | 16             | +2 (Human)         | 18      | **+4**   |
 
+**Max HP**: 13
+
+**Saves**: FORT +4, REF -1, WILL +0
+
 **Feats**: [**Power Attack**](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final), [**Improved Initiative**](http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final)
 
 **Special Abilities**: [**Detect Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Detect-Evil-Sp-) at will, [**Smite Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) 1/day, fire resistance 1
