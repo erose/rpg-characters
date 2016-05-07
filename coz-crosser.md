@@ -25,12 +25,6 @@ Itinerant preacher and ~~servant of the Church of Sarenrae~~ bringer of the **tr
 | Wis           | 7              | -                  | 7       | **-2**   |
 | Cha           | 16             | +2 (Human)         | 18      | **+4**   |
 
-**Max HP**: 13
-
-**Initiative Bonus**: +3
-
-**Saves**: FORT +4, REF -1, WILL +0
-
 **Feats**: [**Power Attack**](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final), [**Improved Initiative**](http://www.d20pfsrd.com/feats/combat-feats/improved-initiative-combat---final)
 
 **Special Abilities**: [**Detect Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Detect-Evil-Sp-) at will, [**Smite Evil**](http://www.d20pfsrd.com/classes/core-classes/paladin#TOC-Smite-Evil-Su-) 1/day, fire resistance 1
@@ -112,3 +106,44 @@ The following have no mechanical effect; they're just a character-building idea 
   * How does your character get along with others?
 
 *Very well, as long as they don't trip his "out to get me" radar. Loudly performing good acts, expressing disdain for institutions, or showing some respect for his religious ideas helps. Coz is also eager to help others in public ways in order to demonstrate the power of the Sun.*
+
+***
+
+#Nitty Gritty
+
+**Max HP**: 13
+
+**Initiative Bonus**: +3
+
+**Saves**: FORT +4, REF -1, WILL +0
+
+Coz prefers to spend most of his time out of armor, in his respectable suit, with his gear stashed elsewhere. When Coz is not outfitted for combat he has:
+
+**AC** = **9**, **Flat-Footed AC** = **9**
+
+**Sword Cane:** piercing damage, critical x2
+
+| Options            | Attack Bonus  | Damage                  |
+| ------------------:|--------------:| -----------------------:|
+| Regular            | +3            | **1d6 + 2**             |
+| Power Attack       | +2            | **1d6 + 4**             |
+
+When outfitted for combat, he switches between two modes; two-handed greatsword, or longsword + shield:
+
+**AC (longsword + shield)** = **16**, **Flat-Footed AC** = **16**
+
+**Longsword:** slashing damage, critical 19-20 x2
+
+| Options            | Attack Bonus  | Damage                  |
+| ------------------:|--------------:| -----------------------:|
+| Regular            | +3            | **1d8 + 2**             |
+| Power Attack       | +2            | **1d8 + 4**             |
+
+**AC (greatsword)** = **14**, **Flat-Footed AC** = **14**
+
+**Greatsword:** slashing damage, critical 19-20 x2
+
+| Options            | Attack Bonus  | Damage                  |
+| ------------------:|--------------:| -----------------------:|
+| Regular            | +3            | **2d6 + 3**             |
+| Power Attack       | +2            | **2d6 + 6**             |
