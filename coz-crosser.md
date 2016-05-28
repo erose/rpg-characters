@@ -115,6 +115,8 @@ The following have no mechanical effect; they're just a character-building idea 
 
 **Initiative Bonus**: +3
 
+**XP**: 950
+
 **Saves**: FORT +4, REF -1, WILL +0
 
 **CMB**: 13
