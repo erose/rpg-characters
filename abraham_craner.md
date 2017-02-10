@@ -28,3 +28,18 @@ Spellbook:
     * [Fog Cloud](http://engl393-dnd5th.wikia.com/wiki/Fog_Cloud)
     * [Chromatic Orb](http://engl393-dnd5th.wikia.com/wiki/Chromatic_Orb)
     * [Comprehend Languages](http://engl393-dnd5th.wikia.com/wiki/Comprehend_Languages) (ritual)
+
+Magic is rare. Magical items are rare and expensive. Shared background with another character?
+
+Important Memories:
+
+Why is he standoffish?
+
+What's his relationship with family?
+
+  * **Rage**
+  * **Fear**
+  * **Obsession**
+  * **Noble**
+
+Am I well known?
