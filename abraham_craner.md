@@ -7,11 +7,11 @@
 Ability Scores: (using the 27 points method, in part because it seems more realistic for an old person).
 
   * Str **8** (old and frail)
-  * Dex **10** (reedy)
-  * Con **12** (surprisingly hardy)
-  * Int **15** (loves to over-complicate)
+  * Dex **9** (reedy)
+  * Con **10** (surprisingly hardy)
+  * Int **16** (loves to over-complicate)
   * Wis **8** (credulous)
-  * Cha **10** (friendly, but doesn't get the joke)
+  * Cha **12** (friendly, but doesn't get the joke)
 
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
@@ -72,3 +72,11 @@ Abraham was a civil servant in the
     Abraham is very self-sufficient, but loves to spend time chatting and 
   
   * **Does your character have any verbal tics?**
+
+#Proficiencies
+  * Medicine
+  * Religion
+  * Investigation
+  * Arcana
+
+#Feats
