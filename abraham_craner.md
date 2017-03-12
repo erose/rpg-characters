@@ -1,6 +1,6 @@
 <img src="https://www.rigaslaiks.com/cache/images/3723246849/freeman-dyson_1793102875.jpg" width=600px>
 
-1st level human wizard.
+2nd level human wizard.
 
 *""*
 
@@ -30,6 +30,16 @@ Spellbook:
     * [Fog Cloud](http://engl393-dnd5th.wikia.com/wiki/Fog_Cloud)
     * [Chromatic Orb](http://engl393-dnd5th.wikia.com/wiki/Chromatic_Orb)
     * [Comprehend Languages](http://engl393-dnd5th.wikia.com/wiki/Comprehend_Languages) (ritual)
+
+#Features
+
+**Divination Savant**
+The gold and time you must spend to copy a divination spell into your spellbook is halved. (to 1hr + 25gp per level of the spell).
+
+**Portent**
+Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d205 and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+
+Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
 ##History
 
