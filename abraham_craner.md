@@ -13,8 +13,9 @@ Ability Scores: (using the 27 points method, in part because it seems more reali
   * Wis **8** (credulous)
   * Cha **12** (friendly, but doesn't get the joke)
 
-HP: 6 (max at first level)
-  * + 5 (rolled 1d6 at second level)
+HP:
+  * 6 (max at first level)
+  * (+5) (rolled 1d6 at second level)
 
 **Total Maximum HP**: 11
 
