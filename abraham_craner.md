@@ -4,7 +4,7 @@
 
 *""*
 
-Ability Scores: (using the 27 points method, in part because it seems more realistic for an old person).
+Ability Scores:
 
   * Str **8** (old and frail)
   * Dex **9** (reedy)
@@ -18,6 +18,9 @@ HP:
   * (+5) (rolled 1d6 at second level)
 
 **Total Maximum HP**: 11
+
+Initiative:
+  * +4 (-1 Dex mod, +5 from Alert feat)
 
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
