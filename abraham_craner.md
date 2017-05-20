@@ -1,6 +1,6 @@
 <img src="https://www.rigaslaiks.com/cache/images/3723246849/freeman-dyson_1793102875.jpg" width=600px>
 
-2nd level human wizard.
+3rd level human wizard. (XP 2140)
 
 *""*
 
@@ -16,8 +16,9 @@ Ability Scores:
 HP:
   * 6 (max at first level)
   * (+5) (rolled 1d6 at second level)
+  * (+5) (rolled 1d6 at third level)
 
-**Total Maximum HP**: 11
+**Total Maximum HP**: 16
 
 Initiative:
   * +4 (-1 Dex mod, +5 from Alert feat)
@@ -52,6 +53,15 @@ The gold and time you must spend to copy a divination spell into your spellbook 
 Glimpses of the future begin to press in on your awareness. When you finish a long rest, roll two d205 and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
+
+#Proficiencies
+  * Medicine
+  * Religion
+  * Investigation
+  * Arcana
+
+#Feats
+  * Alert
 
 ##History
 
@@ -94,12 +104,3 @@ Abraham was a civil servant in the
     Abraham is very self-sufficient, but loves to spend time chatting and 
   
   * **Does your character have any verbal tics?**
-
-#Proficiencies
-  * Medicine
-  * Religion
-  * Investigation
-  * Arcana
-
-#Feats
-  * Alert
