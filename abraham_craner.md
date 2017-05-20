@@ -23,6 +23,9 @@ HP:
 Initiative:
   * +4 (-1 Dex mod, +5 from Alert feat)
 
+AC:
+  * 9 (Base 10, -1 Dex mod)
+
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
 #Spells
