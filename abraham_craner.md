@@ -1,6 +1,6 @@
 <img src="https://www.rigaslaiks.com/cache/images/3723246849/freeman-dyson_1793102875.jpg" width=600px>
 
-3rd level human wizard. (XP 2140)
+4th level human wizard. (XP 3861)
 
 *""*
 
@@ -9,7 +9,7 @@ Ability Scores:
   * Str **8** (old and frail)
   * Dex **9** (reedy)
   * Con **10** (surprisingly hardy)
-  * Int **16** (loves to over-complicate)
+  * Int **18** (loves to over-complicate)
   * Wis **8** (credulous)
   * Cha **12** (friendly, but doesn't get the joke)
 
@@ -17,8 +17,9 @@ HP:
   * 6 (max at first level)
   * (+5) (rolled 1d6 at second level)
   * (+5) (rolled 1d6 at third level)
+  * (+1) (rolled 1d6 at fourth level)
 
-**Total Maximum HP**: 16
+**Total Maximum HP**: 17
 
 Initiative:
   * +4 (-1 Dex mod, +5 from Alert feat)
@@ -26,7 +27,18 @@ Initiative:
 AC:
   * 9 (Base 10, -1 Dex mod)
 
+Spell Attack Modifier:
+  * Int mod + proficiency bonus = +6
+
+Spell Save DC:
+  * 8 + Int mod + proficiency bonus = 14
+
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
+
+#Spell Slots
+
+  * 1st Level: **4**
+  * 2nd Level: **3**
 
 #Spells
 
@@ -45,7 +57,7 @@ Spellbook:
     * [Comprehend Languages](http://engl393-dnd5th.wikia.com/wiki/Comprehend_Languages) (ritual)
 
 Spells available per day:
-  * 2 (Wizard level) + 3 (Int modifier) = 5
+  * 4 (Wizard level) + 4 (Int modifier) = 8
 
 #Features
 
