@@ -1,6 +1,6 @@
 <img src="https://www.rigaslaiks.com/cache/images/3723246849/freeman-dyson_1793102875.jpg" width=600px>
 
-4th level human wizard. (XP 3861)
+4th level human wizard. (XP 5552)
 
 *""*
 
