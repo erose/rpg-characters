@@ -35,12 +35,12 @@ Spell Save DC:
 
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
-#Spell Slots
+##Spell Slots
 
   * 1st Level: **4**
   * 2nd Level: **3**
 
-#Spells
+##Spells
 
 Cantrips:
   * [Light](http://engl393-dnd5th.wikia.com/wiki/Light)
@@ -62,7 +62,7 @@ Spellbook:
 Spells available per day:
   * 4 (Wizard level) + 4 (Int modifier) = 8
 
-#Features
+##Features
 
 **Divination Savant**
 The gold and time you must spend to copy a divination spell into your spellbook is halved. (to 1hr + 25gp per level of the spell).
@@ -78,7 +78,7 @@ Each foretelling roll can be used only once. When you finish a long rest, you lo
   * Investigation
   * Arcana
 
-#Feats
+##Feats
   * Alert
 
 ##History
@@ -97,7 +97,7 @@ Abraham was a civil servant in the
   * **Noble**
     To educate the less fortunate! To discover and share the mysteries of the universe so that violence will cease, hunger will retreat to the wilderness, and all shall know the peace of knowledge.
 
-#20 Questions
+##20 Questions
 
   * **How old is your character?**
     Abraham is 68 years old.
