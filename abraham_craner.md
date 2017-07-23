@@ -48,13 +48,16 @@ Cantrips:
   * [Mage Hand](http://engl393-dnd5th.wikia.com/wiki/Mage_Hand)
 
 Spellbook:
-  * **1st Level** (3 slots/day)
+  * **1st Level** (4 slots/day)
     * [Alarm](http://engl393-dnd5th.wikia.com/wiki/Alarm) (ritual)
     * [Burning Hands](http://engl393-dnd5th.wikia.com/wiki/Burning_Hands)
-    * [Detect Magic](http://engl393-dnd5th.wikia.com/wiki/Detect_Magic) (ritual)
-    * [Fog Cloud](http://engl393-dnd5th.wikia.com/wiki/Fog_Cloud)
     * [Chromatic Orb](http://engl393-dnd5th.wikia.com/wiki/Chromatic_Orb)
     * [Comprehend Languages](http://engl393-dnd5th.wikia.com/wiki/Comprehend_Languages) (ritual)
+    * [Detect Magic](http://engl393-dnd5th.wikia.com/wiki/Detect_Magic) (ritual)
+    * [Fog Cloud](http://engl393-dnd5th.wikia.com/wiki/Fog_Cloud)
+    * [Mage Armor](http://engl393-dnd5th.wikia.com/wiki/Mage_Armor)
+  * **2nd Level** (3 slots/day)
+    * [Hold Person](http://engl393-dnd5th.wikia.com/wiki/Hold_Person)
 
 Spells available per day:
   * 4 (Wizard level) + 4 (Int modifier) = 8
