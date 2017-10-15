@@ -63,6 +63,8 @@ Spellbook:
     * [Mage Armor](http://engl393-dnd5th.wikia.com/wiki/Mage_Armor)
   * **2nd Level** (3 slots/day)
     * [Hold Person](http://engl393-dnd5th.wikia.com/wiki/Hold_Person)
+    * [Levitate](https://roll20.net/compendium/dnd5e/Spells:Levitate#h-Levitate)
+    * [Locate Object](https://roll20.net/compendium/dnd5e/Spells:Locate%20Object#h-Locate%20Object)
   * **3rd Level** (2 slots/day)
     * [Fly](https://roll20.net/compendium/dnd5e/Spells:Fly#h-Fly)
     * [Fireball](https://roll20.net/compendium/dnd5e/Spells:Fireball#h-Fireball)
