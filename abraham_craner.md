@@ -1,6 +1,6 @@
 <img src="https://www.rigaslaiks.com/cache/images/3723246849/freeman-dyson_1793102875.jpg" width=600px>
 
-4th level human wizard. (XP 5552)
+5th level human wizard. (XP 8092)
 
 *""*
 
@@ -18,8 +18,9 @@ HP:
   * (+5) (rolled 1d6 at second level)
   * (+5) (rolled 1d6 at third level)
   * (+1) (rolled 1d6 at fourth level)
+  * (+1) (rolled 1d6 at fifth level)
 
-**Total Maximum HP**: 17
+**Total Maximum HP**: 18
 
 Initiative:
   * +4 (-1 Dex mod, +5 from Alert feat)
@@ -27,11 +28,14 @@ Initiative:
 AC:
   * 9 (Base 10, -1 Dex mod)
 
+Proficiency Bonus:
+  * +3
+
 Spell Attack Modifier:
-  * Int mod + proficiency bonus = +6
+  * Int mod + proficiency bonus = +7
 
 Spell Save DC:
-  * 8 + Int mod + proficiency bonus = 14
+  * 8 + Int mod + proficiency bonus = 15
 
 Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
@@ -39,6 +43,7 @@ Background: [Hermit](http://engl393-dnd5th.wikia.com/wiki/Hermit)
 
   * 1st Level: **4**
   * 2nd Level: **3**
+  * 3rd Level: **2**
 
 ## Spells
 
@@ -58,9 +63,13 @@ Spellbook:
     * [Mage Armor](http://engl393-dnd5th.wikia.com/wiki/Mage_Armor)
   * **2nd Level** (3 slots/day)
     * [Hold Person](http://engl393-dnd5th.wikia.com/wiki/Hold_Person)
+  * **3rd Level** (2 slots/day)
+    * [Fly](https://roll20.net/compendium/dnd5e/Spells:Fly#h-Fly)
+    * [Fireball](https://roll20.net/compendium/dnd5e/Spells:Fireball#h-Fireball)
+    * [Haste](https://roll20.net/compendium/dnd5e/Spells:Haste#h-Haste)
 
 Spells available per day:
-  * 4 (Wizard level) + 4 (Int modifier) = 8
+  * 5 (Wizard level) + 4 (Int modifier) = 8
 
 ## Features
 
@@ -103,7 +112,7 @@ Abraham was a civil servant in the
     Abraham is 68 years old.
     
   * **Does your character have any other family or friends?**
-    A brother, Ahaziah (a-ha-ZI-ah) Craner, is an aristocratic type who holds an important political position in some coastal city. Abraham holds him in high regard, but Ahaziah is embarassed by his weird rambling brother.
+    A brother, Modrecai Craner, is an aristocratic type who holds an important political position in some coastal city. Abraham holds him in high regard, but Ahaziah is embarassed by his weird rambling brother.
     
   * **What is your character's marital status? Kids?**
     dsads
