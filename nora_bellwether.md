@@ -26,7 +26,7 @@
   - **Deal With The Agency**:
     - When you deal with the Agency, requesting help or gear, or making excuses for a failure, roll +Sharp. On a 10+, you’re good—your request for gear or person-nel is okayed, or your slip-up goes unnoticed. On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what  you  need  for  the  job.  On  a  miss,  you  screwed  up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
 
-Weapons: (Nora is a big hunter, but even that doesn't quite accoutn for how well-armed she is.)
+Weapons: (Nora is a big hunter, but even that doesn't quite account for how well-armed she is.)
   - Flak vest. (1-armor hidden)
   - Sniper rifle. (4-harm far)
   - Hunting rifle. (2-harm far loud)
