@@ -50,6 +50,17 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
 
 **Spell Save DC**: **14** = 8 + 3 (Proficiency Bonus) + 3 (CHA)
 
+|**Saving Throws** | ... |
+|---|---|
+|STR| **-1** = modifier |
+|DEX| **+5** = modifier |
+|CON| **+1** = modifier |
+|WIS| **+4** = modifier + proficiency bonus |
+|INT| **+0** = modifier |
+|CHA| **+4** = modifier + proficiency bonus |
+
+
+
 Patron Features:
   - **Fey Presence**
     - <img width=300px src="images/galadriel.png?raw=true">
