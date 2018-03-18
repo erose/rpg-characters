@@ -20,6 +20,13 @@ Melody doesn't remember how she got back home. She felt different. It not as sur
 
 Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend was as understanding as he could be under the circumstances, but they decided to take a break. Melody quit school, not her favorite anyway, and quit home. Faced with something so out of the ordinary, she felt she could only respond by trying to leave the ordinary. She has been travelling like this for a few months.
 
+<h3>The Lady</h3>
+
+  - She is a high-ranking Fey, allied with the underground and with metals.
+  - Melody doesn't know anything about her, even that she's a fey.
+  - She will periodically send Melody letters over the course of the campaign (which I will write), but this hasn't happened yet.
+  - She isn't done with Melody.
+
 Patron Features:
   - **Fey Presence**
     - *Flavor TODO*
