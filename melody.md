@@ -1,3 +1,25 @@
+<h2>Melody</h2>
+
+Melody was making the journey back from Elin to her home. She was visiting her boyfriend, who like all ambitious and serious elves from the Elin suburbs, attends the School of Forestry there.
+
+She set up camp for the night, but upon waking she found that her horse had died in the night. It had been strong and healthy in the evening. She was miles away from the nearest town, and the weather was unexpectedly cold for this time of year.
+
+Stepping back onto the road, Melody waited. Travellers were sparse on this road, but it felt better to have any kind of plan. She tried not to think about what would happen if no one came.
+
+In about an hour, a strange carriage came over the horizon. Deer with black fur pulled an imperial-looking coach. The doors and roof were peacock blue, and smoother than wood or metal. She didn't move or raise her hand to wave it down, just stood there while it came down the hill and stopped in front of her.
+
+The tallest woman Melody had ever seen stepped out. Her dress was like fish scales. She was warm and friendly, and Melody took her up on her offer of a ride. They got to talking. The lady seemed very interested in everything she said. She complimented Melody on her resourcefulness and openmindedness, and Melody felt the glow of being understood. At no point does she remember asking the lady's name.
+
+They were passing by an inn. Melody remembers a plate of blue tea cakes sitting between them in the carriage. She had one in her hand. It caught the light in a strange way, reflecting it like a mineral. The lady laughed -- her laugh was beautiful -- as she ate. Melody laughed too, a bit awkardly; the cakes didn't really look like food, but she didn't want to offend her host. Searching for something to comment on, she looked out the back window of the carriage.
+
+The innkeeper's wife was bringing in a basket of eggs. Welling up from the ground around her feet was a cloud of iridescent dust, metallic blue. It traveled up her legs and covered her body, sticking like magnets. Without a scream, she drank it in. 
+
+"Magnificent," said the Lady, eyes shining. Melody turned. The woman took the cake from her platter and put it down Melody's uncomprehending mouth.
+
+Melody doesn't remember how she got back home. She felt different. It not as surprising as it should have been when she discovered the powers she had been given.
+
+Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend was as understanding as he could be under the circumstances, but they decided to take a break. Melody quit school, not her favorite anyway, and quit home. Faced with something so out of the ordinary, she felt she could only respond by trying to leave the ordinary. She has been travelling like this for a few months.
+
 Patron Features:
   - **Fey Presence**
     - *Flavor TODO*
