@@ -71,7 +71,8 @@ Spells (2 spell slots):
   
   - 3rd level:
     - [Counterspell](https://5thsrd.org/spellcasting/spells/counterspell/)
-    - [Fly](https://5thsrd.org/spellcasting/spells/fly/) The target sprouts wings TODO
+    - [Fly](https://5thsrd.org/spellcasting/spells/fly/)
+      - *The target sprouts moth's wings -- eggshell blue ringed with green.*
   
   - 4th level:
     - [Greater Invisibility](https://5thsrd.org/spellcasting/spells/greater_invisibility/)
