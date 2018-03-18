@@ -26,6 +26,27 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
   - Melody doesn't know anything about her, even that she's a fey.
   - She will periodically send Melody letters over the course of the campaign (which I will write), but this hasn't happened yet.
   - She isn't done with Melody.
+  
+**Ability Scores** (27-point buy)
+
+| Score | Math | Modifier |
+|-------|------|----------|
+|  STR  |8 base + 1 human = **9**| -1 |
+|  DEX  |15 base + 1 human + 2 (ability score improvement) + 2 (ability score improvement) = **20**| +5 |
+|  CON  |11 base + 1 human = **12**| +1 |
+|  INT  |10 base + 1 human = **11**| +0 |
+|  WIS  |12 base + 1 human = **13**| +1 |
+|  CHA  |15 base + 1 human = **16**| +3 |
+
+**Hit Dice**: 8d8 (1d8 per warlock level)
+
+|**Hit Points**|
+|--|
+|Total: **51**|
+|8 + CON at first level = **9**|
+|5 + CON for each additional level = (5 + 1) * 7 = **42**|
+
+**Proficiency Bonus**: +3
 
 Patron Features:
   - **Fey Presence**
