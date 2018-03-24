@@ -71,6 +71,9 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
 | Rapier    | **+8** = DEX + proficiency bonus | **1d8 + 5** = base + DEX | Two attacks, magical |
 | Eldritch Blast | **+7** = CHA + proficiency bonus | **1d10 + 4** = base + CHA | Two attacks, range 120 feet|
 
+**Posessions**:
+  - 2,000 gold pieces
+  - [Ring of Mind Shielding](https://roll20.net/compendium/dnd5e/Ring%20of%20Mind%20Shielding#content) *Given to her by her father when she left to go adventuring. Melody keeps it invisible all the time and tells no one about it.*
 
 Patron Features:
   - **Fey Presence**
