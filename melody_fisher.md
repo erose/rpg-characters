@@ -48,6 +48,11 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
 
 **Proficiency Bonus**: +3
 
+|**Skills** (only proficient ones listed)||
+|--|--|
+|**History**|**+3** = 3 (Proficiency Bonus) + 0 (INT)|
+|**Religion**|**+3** = 3 (Proficiency Bonus) + 0 (INT)|
+
 **Spell Save DC**: **14** = 8 + 3 (Proficiency Bonus) + 3 (CHA)
 
 |**Saving Throws** | ... |
@@ -57,9 +62,9 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
 |CON| **+1** = modifier |
 |WIS| **+4** = modifier + proficiency bonus |
 |INT| **+0** = modifier |
-|CHA| **+4** = modifier + proficiency bonus |
+|CHA| **+6** = modifier + proficiency bonus |
 
-**AC**: 10 (base) + 5 (DEX) = 15
+**AC**: 12 (studded leather armor) + 5 (DEX) = 17
 
 |**Attacks**| To-Hit | Damage | Notes |
 |-----------|--------|--------|-------|
