@@ -78,7 +78,7 @@ Since then, Melody hasn't seen or heard from the mysterious woman. Her boyfriend
 Patron Features:
   - **Fey Presence**
     - <img width=300px src="images/galadriel.png?raw=true">
-    - As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
+    - As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn. Recharges at a short or long rest.
   
   - **Misty Escape**
     - *Melody disappears in a cloud of gray smoke.*
