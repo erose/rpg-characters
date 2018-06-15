@@ -36,6 +36,7 @@
 |CHA| **+5** = modifier + proficiency bonus |
 
 **AC**: **14** = 12 (studded leather) + 2 (shield) + 0 (DEX)
+
 AC **18** when wearing chain mail.
 
 |**Attacks**| To-Hit | Damage | Notes |
